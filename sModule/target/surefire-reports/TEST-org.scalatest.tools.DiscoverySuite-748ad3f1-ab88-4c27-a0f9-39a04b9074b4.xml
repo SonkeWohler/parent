@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="DESKTOP-06H6A28" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.013" timestamp="2020-02-07T10:30:24">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment">
+    </property>
+    <property name="java.vm.version" value="11.0.2+9"> </property>
+    <property 
+    name="sun.boot.library.path" value="C:\Program Files\Java\open-jdk-11.0.2\bin">
+</property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=";"> </property>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"> </property>
+    <property name="sun.os.patch.level" value=""> </property>
+    <property name="user.script" value=""> </property>
+    <property name="user.country" value="GB"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property 
+    name="user.dir" value="D:\EclipseLibrary\scalaTestingProject\parent\sModule">
+</property>
+    <property name="java.vm.compressedOopsMode" value="Zero based"> </property>
+    <property name="java.runtime.version" value="11.0.2+9"> </property>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment">
+</property>
+    <property 
+    name="basedir" value="D:\EclipseLibrary\scalaTestingProject\parent\sModule">
+</property>
+    <property name="os.arch" value="amd64"> </property>
+    <property name="java.io.tmpdir" value="C:\Users\soenk\AppData\Local\Temp\">
+    </property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.variant" value=""> </property>
+    <property name="os.name" value="Windows 10"> </property>
+    <property name="sun.jnu.encoding" value="Cp1252"> </property>
+    <property 
+    name="java.library.path" value="C:\Program Files\Java\open-jdk-11.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Python37-32\Scripts\;C:\Program Files (x86)\Python37-32\;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Maven\bin;C:\Program Files\Pandoc\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;D:\Programs\ZooKeeper\apache-zookeeper-3.5.5\bin;C:\Program Files\postgresql\10\bin;C:\Program Files\Java\open-jdk-11.0.2\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Users\soenk\scoop\shims;C:\Users\soenk\AppData\Local\Microsoft\WindowsApps;C:\Users\soenk\AppData\Local\GitHubDesktop\bin;C:\Users\soenk\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.3\bin;;C:\Users\soenk\AppData\Roaming\npm;C:\Users\soenk\AppData\Local\atom\bin;D:\Programs\ZooKeeper\apache-zookeeper-3.5.5\bin;;C:\Program Files\Docker Toolbox;C:\Users\soenk\AppData\Local\Programs\Microsoft VS Code\bin;.">
+</property>
+    <property name="jdk.debug" value="release"> </property>
+    <property name="java.class.version" value="55.0"> </property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="10.0"> </property>
+    <property name="user.home" value="C:\Users\soenk"> </property>
+    <property name="user.timezone" value=""> </property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob">
+    </property>
+    <property name="file.encoding" value="Cp1252"> </property>
+    <property name="java.specification.version" value="11"> </property>
+    <property name="user.name" value="soenk"> </property>
+    <property 
+    name="java.class.path" value="D:\EclipseLibrary\scalaTestingProject\parent\sModule\target\test-classes;D:\EclipseLibrary\scalaTestingProject\parent\sModule\target\classes;C:\Users\soenk\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.1\junit-jupiter-engine-5.5.1.jar;C:\Users\soenk\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\soenk\.m2\repository\org\junit\platform\junit-platform-engine\1.5.1\junit-platform-engine-1.5.1.jar;C:\Users\soenk\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\soenk\.m2\repository\org\junit\platform\junit-platform-commons\1.5.1\junit-platform-commons-1.5.1.jar;C:\Users\soenk\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.1\junit-jupiter-api-5.5.1.jar;C:\Users\soenk\.m2\repository\org\scala-lang\scala-library\2.13.1\scala-library-2.13.1.jar;C:\Users\soenk\.m2\repository\org\scalatest\scalatest_2.13\3.1.0\scalatest_2.13-3.1.0.jar;C:\Users\soenk\.m2\repository\org\scalatest\scalatest-compatible\3.1.0\scalatest-compatible-3.1.0.jar;C:\Users\soenk\.m2\repository\org\scalactic\scalactic_2.13\3.1.0\scalactic_2.13-3.1.0.jar;C:\Users\soenk\.m2\repository\org\scala-lang\scala-reflect\2.13.1\scala-reflect-2.13.1.jar;C:\Users\soenk\.m2\repository\org\scala-lang\modules\scala-xml_2.13\1.2.0\scala-xml_2.13-1.2.0.jar">
+</property>
+    <property name="java.vm.specification.version" value="11"> </property>
+    <property name="sun.arch.data.model" value="64"> </property>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -R D:\EclipseLibrary\scalaTestingProject\parent\sModule\target\classes D:\EclipseLibrary\scalaTestingProject\parent\sModule\target\test-classes -o -fWDF D:\EclipseLibrary\scalaTestingProject\parent\sModule\target\surefire-reports\TestSuite.txt -u D:\EclipseLibrary\scalaTestingProject\parent\sModule\target\surefire-reports\.">
+</property>
+    <property name="java.home" value="C:\Program Files\Java\open-jdk-11.0.2">
+    </property>
+    <property name="user.language" value="en"> </property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"> </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="11.0.2"> </property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="file.separator" value="\"> </property>
+    <property name="java.version.date" value="2019-01-15"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/">
+</property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"> </property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="java.vendor.version" value="18.9"> </property>
+    <property name="sun.desktop" value="windows"> </property>
+    <property name="sun.cpu.isalist" value="amd64"> </property>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
