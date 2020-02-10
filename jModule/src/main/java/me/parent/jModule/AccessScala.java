@@ -1,13 +1,13 @@
 package me.parent.jModule;
 
-public class AccessScala{
-    public static void main(String[] args){
+public class AccessScala {
+    public static void main(String[] args) {
         WithinModule within = new WithinModule();
-        // -- this is like a static variable
-        System.out.println(WithinModule.string);
-        // -- this is like an instance variable
-        System.out.println(within.string);
-        // -- this is a getter, as it should be in Java
+        // -- this is like a static variable, but Scala doesn't allow that
+        // System.out.println(WithinModule.string());
+        // -- this is the auto-generated getter
+        System.out.println(within.string());
+        // -- this getter was manually added
         System.out.println(within.getString());
     }
 }
