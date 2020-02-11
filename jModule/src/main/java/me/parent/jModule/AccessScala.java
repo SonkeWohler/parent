@@ -1,5 +1,7 @@
 package me.parent.jModule;
 
+import me.parent.jModule.WithinModule;
+
 public class AccessScala {
     public static void main(String[] args) {
         WithinModule within = new WithinModule();
