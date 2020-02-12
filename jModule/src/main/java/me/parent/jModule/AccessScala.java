@@ -1,6 +1,6 @@
 package me.parent.jModule;
 
-import me.parent.jModule.WithinModule;
+import me.parent.sModule.ExternalModule;
 
 public class AccessScala {
     public static void main(String[] args) {
@@ -11,5 +11,10 @@ public class AccessScala {
         System.out.println(within.string());
         // -- this getter was manually added
         System.out.println(within.getString());
+
+        // -- external module
+        ExternalModule external = new ExternalModule();
+        System.out.println(external.string());
+
     }
 }
